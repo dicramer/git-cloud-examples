@@ -1,5 +1,2 @@
 hello world!
-Steve Jobs
-Tim Cook
-Elon Musk
-Another feature
+Thanks for visiting
